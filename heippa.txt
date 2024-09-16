@@ -2,4 +2,5 @@ moikka.
 testailen täällä.
 onnistuukohan.
 uusi rivi. tämä lisätty netissä.
-Kaveri päivitti tätä netissä!
+oma muokkaus koneella!
+
